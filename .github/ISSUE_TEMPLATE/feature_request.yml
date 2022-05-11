@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest an for the bot
 title: "[Feature] ISSUE TITLE HERE"
-labels: "feature request"
+labels: "Feature"
 body:
   - type: textarea
     id: is-related
