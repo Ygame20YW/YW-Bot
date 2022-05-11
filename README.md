@@ -1,5 +1,5 @@
 # YW Bot Issue
-![teardownissues](https://user-images.githubusercontent.com/25854043/111224672-c8859980-85ac-11eb-9c6c-06e9b7c7c2ec.png)
+**Report any issue or suggest for future update here**
 
 
 ## How To Use
@@ -11,13 +11,14 @@ When creating a new issue, you will be prompted to choose an issue template to s
 
 **Step 1: Choose a template for your issue**
 
-
+![step1](https://user-images.githubusercontent.com/101508748/167815805-1545fe85-e3ee-4dc5-a519-e7d60f813dd8.png)
 
 
 **Step 2: Fill out the template**
 
-
+![step2](https://user-images.githubusercontent.com/101508748/167815916-aa88de84-cacc-4289-be8b-c7ce4f3c8885.png)
 
 
 **Step 3: Submit the issue**
 
+![step3](https://user-images.githubusercontent.com/101508748/167815962-ef545628-f561-4d4e-8b40-53ce343b64c4.png)
