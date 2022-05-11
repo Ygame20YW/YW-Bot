@@ -1,5 +1,5 @@
 name: Bug report
-description: Report an issue/bug with the game
+description: Report an issue/bug with the bot
 title: "[Bug] ISSUE TITLE HERE"
 labels: [bug]
 body:
