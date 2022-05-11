@@ -7,7 +7,7 @@ View existing issues [here](https://github.com/Ygame20YW/YW-Bot/issues).
 
 Create a new issue [here](https://github.com/Ygame20YW/YW-Bot/issues/new/choose).
 
-When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug report or eature request and try to retain the original format to ensure consistency and readability.
+When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug report or feature request to retain the original format to ensure consistency and readability.
 
 **Step 1: Choose a template for your issue**
 
